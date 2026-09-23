@@ -1,1 +1,9 @@
-[README.md](https://github.com/user-attachments/files/32550130/README.md)
+# Hotel Revenue Analytics - Power BI
+
+## Dashboard Preview
+
+![Hotel Dashboard](hotel_dashboard.png)
+
+## Files
+- `Hotel_Revenue_Analytics.pbix` – Power BI report
+- `hotel_dashboard.png` – Dashboard screenshot
